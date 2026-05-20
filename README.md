@@ -83,7 +83,6 @@ ui_tests/
 3. Usuń 1 element i sprawdź, że zostały 2.
 4. Usuń pozostałe i potwierdź, że nie ma żadnych **Delete**.
 
-
 ---
 
 ### Zadanie 2: Logowanie — pozytywny i negatywny scenariusz
@@ -120,6 +119,8 @@ ui_tests/
 1. Wgraj plik (np. `example.txt`).
 2. Kliknij Upload.
 3. Zweryfikuj, że strona pokazuje nazwę pliku.
+
+---
 
 ### Zadanie 5: Alerts — obsługa alert/confirm/prompt
 
