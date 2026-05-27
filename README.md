@@ -110,7 +110,7 @@ ui_tests/
 
 ---
 
-## Zadania (5)
+## Zadania (7)
 
 ### Zadanie 1: Add/Remove Elements — dodawanie i usuwanie elementów
 
