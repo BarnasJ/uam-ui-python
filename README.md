@@ -17,6 +17,7 @@
    - [Zadanie 5: Alerts](#zadanie-5-alerts--obsługa-alertconfirmprompt)
    - [Zadanie 6: POM](#zadanie-6-pom---page-object-model)
    - [Zadanie 7: Github Actions](#zadanie-7-pipeline---github-actions)
+   - [Zaliczenie](#zadanie-7-pipeline---github-actions)
 
 ---
 
@@ -188,3 +189,13 @@ ui_tests/
    2. Uruchomienie testów z POM
    3. Zebranie obu raportów z testów i udostępnienie ich do pobrania w Github
    4. Pipeline można uruchamiać ręcznie
+
+---
+
+### Zaliczenie
+
+**Kryteria zaliczenia:**
+1. Stwórz repozytorium zawierające:
+   1. 7 powyższych zadań
+   2. Pipeline, który będzie można uruchomić i zobaczyć wyniki
+2. Link do repozytorium proszę podesłać standardowo na adres **jacek.barnas@capgemini.com**
